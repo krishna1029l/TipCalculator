@@ -1,4 +1,5 @@
 # Tippy - A Simple Tip Calculator for Android
+i perfromed in this android studio
 
 
 <p float="middle">
